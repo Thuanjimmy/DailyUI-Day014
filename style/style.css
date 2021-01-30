@@ -1,0 +1,27 @@
+body{
+    background-color: #222831;
+    text-align: center;
+}
+
+p{
+    display: inline-block;
+    position: relative;
+}
+.basketball{
+    width: 50%;
+    margin: 100px auto;
+}
+.box{
+    background-color: #dddddd;
+    border-radius: 50px;
+    height: 600px;
+    margin: 100px auto;
+    width: 350px;
+}  
+.notch{
+    position: relative;
+	background: black;
+    border-radius: .4em;
+    max-width: 50%;
+    color: black;
+}
